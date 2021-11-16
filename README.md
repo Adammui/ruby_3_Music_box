@@ -1,24 +1,4 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+this app is deployed on heroku
+visit  https://adammui.github.io/ruby_3_Music_box_page/  for simple html page that uses this app 
+all data on the page ^ obtained from postgre db and requested with jQuery.ajax()
